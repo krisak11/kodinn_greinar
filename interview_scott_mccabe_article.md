@@ -1,6 +1,6 @@
 # From Aerospace to Gaming: An Exclusive Interview with a Producer at CCP Games
 
-<img src="scott.png" alt="Scott" width="200">
+<img src="scott.png" alt="Scott" width="">
 
 ## Who is Scott McCabe
 I recently had the chance to sit down with the incredibly talented producer Scott McCabe at CCP Games. With an impressive background in the aerospace industry spanning nine years, Scott has a knack for tackling complex problems, adapting to challenging situations, and consistently delivering high-quality projects, even when faced with tight deadlines.
