@@ -3,7 +3,7 @@
 <img src="scott.png" alt="Scott" width="">
 
 ## Who is Scott McCabe
-I recently had the chance to sit down with the incredibly talented producer Scott McCabe at CCP Games. With an impressive background in the aerospace industry spanning nine years, Scott has a knack for tackling complex problems, adapting to challenging situations, and consistently delivering high-quality projects, even when faced with tight deadlines.
+I recently had the chance to sit down with the incredibly talented producer Scott McCabe at CCP Games. With an impressive background in the aerospace industry spanning over a decade, Scott has a knack for tackling complex problems, adapting to challenging situations, and consistently delivering high-quality projects, even when faced with tight deadlines.
 
 But Scott is not just all work and no play. As a passionate Systems Engineer who made the leap from aerospace to gaming, he brings a unique perspective to his role at CCP Games. His love for gaming, combined with his unrivaled ability to organize events and have fun, makes Scott an exceptional figure in the industry.
 
